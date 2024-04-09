@@ -6,10 +6,11 @@ Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que
 
 ### FrontEnd Development <br>
 HTML , CSS , Bootstrap , Js-(Estudiando) <br>
+<hr> 
 
 #### ¿Hablamos?☕️ 
-<a href="https://www.linkedin.com/in/john-lennon-a514a62ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="John Lennon" height="30" width="40" />linkedin</a> <br>
-<a href="[https://www.linkedin.com/in/john-lennon-a514a62ab/](https://twitter.com/_lennonphillips)" target="blank"><img align="center" src="https://pbs.twimg.com/media/F1zrsq8XsAUU7Lw?format=jpg&name=large" alt="John Lennon" height="30" width="40" />Twitter</a>
+<a href="https://www.linkedin.com/in/john-lennon-a514a62ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="John Lennon" height="30" width="40" />linkedin</a> <br>  <br>
+<a href="[https://www.linkedin.com/in/john-lennon-a514a62ab/](https://twitter.com/_lennonphillips)" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-icon-logo-twitter-logo-twitter-logo-blue-social-media-thumbnail.png" alt="John Lennon" height="30" width="40" />Twitter</a>
 
 
 <!--
