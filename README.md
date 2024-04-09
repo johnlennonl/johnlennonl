@@ -2,9 +2,9 @@
 Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
 <hr> 
 
-Mis habilidades:
+Mis habilidades: <br>
 
-FrontEnd Development
+FrontEnd Development <br>
 HTML5 CSS BOOTSTRAP JAVASCRIPT 50% 
 
 
