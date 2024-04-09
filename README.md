@@ -2,10 +2,13 @@
 Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
 <hr> 
 
-Mis habilidades: <br>
+### Mis habilidades: <br>
 
-FrontEnd Development <br>
-HTML5 CSS BOOTSTRAP JAVASCRIPT 50% 
+### FrontEnd Development <br>
+HTML , CSS , Bootstrap , Js-(Estudiando) <br>
+
+#### ¿Hablamos?☕️ 
+<a href="https://www.linkedin.com/in/john-lennon-a514a62ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="John Lennon" height="30" width="40" />linkedin</a>
 
 
 
