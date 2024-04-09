@@ -1,5 +1,8 @@
 ### Hola 👋
-Hola 👋🏻 , Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
+Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
+Mis habilidades:
+![image](https://github.com/johnlennonl/johnlennonl/assets/119986962/34ebc111-b9fb-410f-bbd1-e09fe4232177)
+
 
 <!--
 **johnlennonl/johnlennonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
