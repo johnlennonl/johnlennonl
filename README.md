@@ -1,7 +1,10 @@
 ### Hola 👋
 Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
-<hr>
+<hr> 
+
 Mis habilidades:
+
+<img src="sass_icon_130835.ico" alt="imgSass">
 
 
 
