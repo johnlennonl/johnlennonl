@@ -4,7 +4,7 @@ Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que
 
 Mis habilidades:
 
-<img src="sass_icon_130835.ico" alt="imgSass">
+<img src="[sass_icon_130835.ico](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fhtml5_1216733&psig=AOvVaw3atJxNkUSvVJyQKMH70Scv&ust=1712711978996000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjTnL37s4UDFQAAAAAdAAAAABAE)" alt="imgSass">
 
 
 
