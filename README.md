@@ -5,7 +5,7 @@ Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que
 ### Mis habilidades: <br>
 
 ### FrontEnd Development <br>
-HTML , CSS , Bootstrap , Js-(Estudiando) <br>
+HTML , CSS , Bootstrap , JavaScript <br>
 <hr> 
 
 #### ¿Hablamos?☕️ 
