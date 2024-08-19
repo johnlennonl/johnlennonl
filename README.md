@@ -2,18 +2,17 @@
 
 **Estudiante de Ciberseguridad** y **Desarrollador Web Frontend**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/john-lennon-a514a62ab/) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:jojopow2410@gmail.com)
 
 ---
 
 ### 🛡️ **Acerca de mí**
-Soy un apasionado estudiante de ciberseguridad que está explorando las profundidades de Kali Linux, mientras refuerzo mis habilidades como desarrollador web frontend. Tengo un sólido conocimiento de:
+Soy un desarrollador web frontend que está ampliando sus conocimientos estudiando ciberseguridad. Actualmente, estoy explorando las profundidades de Kali Linux y otros temas relacionados. Tengo un sólido conocimiento de:
 
 - **Lenguajes**: HTML, CSS, Bootstrap, JavaScript, Python.
 - **Herramientas**: Kali Linux, VSCode, Git, GitHub.
 - **Intereses**: Análisis de vulnerabilidades, desarrollo seguro, scripting y automatización.
-
 ---
 
 ### 🛠️ **Tecnologías & Herramientas**
@@ -41,8 +40,8 @@ Soy un apasionado estudiante de ciberseguridad que está explorando las profundi
 
 ### 🔗 **Proyectos Destacados**
 
-- **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**:Observa el mercado de criptomonedas actual. 
-- **[NinjaDorks](https://github.com/johnlennonl/NinjaDorks)**
+- **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**: Observa el mercado de criptomonedas actual. 
+- **[NinjaDorks](https://github.com/johnlennonl/NinjaDorks)**: Operador de Busqueda Avanzada , Google Hacking. 
 
 
 ### 📫 **¡Hablemos!**
