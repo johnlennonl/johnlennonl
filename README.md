@@ -41,7 +41,8 @@ Soy un apasionado estudiante de ciberseguridad que está explorando las profundi
 
 ### 🔗 **Proyectos Destacados**
 
-- **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**:Observa el mercado de criptomonedas actual. *_
+- **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**:Observa el mercado de criptomonedas actual. 
+- **[NinjaDorks](https://github.com/johnlennonl/NinjaDorks)**
 
 
 ### 📫 **¡Hablemos!**
