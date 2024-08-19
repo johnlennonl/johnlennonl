@@ -1,29 +1,51 @@
-### Hola 👋
-Mi nombre es John Lennon , soy desarrollador Web, he creado varios proyectos que en mi Repositorio podrán observar 🔗 , actualmente estoy ampliando mis conocimientos. 📚💻 
-<hr> 
+# 🧑‍💻 **¡Hola! Soy [John Lennon]** 👋
 
-### Mis habilidades: <br>
+**Estudiante de Ciberseguridad** y **Desarrollador Web Frontend**
 
-### FrontEnd Development <br>
-HTML , CSS , Bootstrap , JavaScript <br>
-<hr> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
 
-#### ¿Hablamos?☕️ 
-<a href="https://www.linkedin.com/in/john-lennon-a514a62ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="John Lennon" height="30" width="40" />linkedin</a> <br>  <br>
-<a href="[https://www.linkedin.com/in/john-lennon-a514a62ab/](https://twitter.com/_lennonphillips)" target="blank"><img align="center" src="https://camo.githubusercontent.com/593e4a7c026b54469782803274e4813b03a14a1554e51f8c4e59d25b99a7bdb5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f676d61696c2e737667" alt="John Lennon" height="30" width="40" />jojopow2410@gmail.com </a>
+---
 
+### 🛡️ **Acerca de mí**
+Soy un apasionado estudiante de ciberseguridad que está explorando las profundidades de Kali Linux, mientras refuerzo mis habilidades como desarrollador web frontend. Tengo un sólido conocimiento de:
 
-<!--
-**johnlennonl/johnlennonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lenguajes**: HTML, CSS, Bootstrap, JavaScript, Python.
+- **Herramientas**: Kali Linux, VSCode, Git, GitHub.
+- **Intereses**: Análisis de vulnerabilidades, desarrollo seguro, scripting y automatización.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tecnologías & Herramientas**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+---
+
+### 📈 **Mis Estadísticas en GitHub**
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+---
+
+### 🌱 **Actualmente Aprendiendo**
+- **Ciberseguridad Avanzada**: Fortificación de servidores, análisis de malware.
+- **Desarrollo Web**: Mejoras en JavaScript y proyectos dinámicos.
+- **Python**: Scripting y automatización en ciberseguridad.
+
+---
+
+### 🔗 **Proyectos Destacados**
+
+- **[Proyecto WhoAmI](https://github.com/yourusername/whoami-project)**: Mejora la privacidad y anonimato en distribuciones de Debian y Arch basadas en Linux. _\*Shell Script\*_
+- **[Wallpapers para Kali Linux](https://github.com/yourusername/wallpapers-for-kali)**: Fondos de pantalla recoloreados para Kali Linux.
+
+---
+
+### 📫 **¡Hablemos!**
+Si tienes alguna pregunta, colaboración o simplemente quieres conectar, no dudes en contactarme a través de mis redes sociales o correo electrónico.
