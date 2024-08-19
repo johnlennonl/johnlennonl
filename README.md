@@ -35,17 +35,14 @@ Soy un apasionado estudiante de ciberseguridad que está explorando las profundi
 
 ### 🌱 **Actualmente Aprendiendo**
 - **Ciberseguridad Avanzada**: Fortificación de servidores, análisis de malware.
-- **Desarrollo Web**: Mejoras en JavaScript y proyectos dinámicos.
 - **Python**: Scripting y automatización en ciberseguridad.
 
 ---
 
 ### 🔗 **Proyectos Destacados**
 
-- **[Proyecto WhoAmI](https://github.com/yourusername/whoami-project)**: Mejora la privacidad y anonimato en distribuciones de Debian y Arch basadas en Linux. _\*Shell Script\*_
-- **[Wallpapers para Kali Linux](https://github.com/yourusername/wallpapers-for-kali)**: Fondos de pantalla recoloreados para Kali Linux.
+- **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**:Observa el mercado de criptomonedas actual. *_
 
----
 
 ### 📫 **¡Hablemos!**
 Si tienes alguna pregunta, colaboración o simplemente quieres conectar, no dudes en contactarme a través de mis redes sociales o correo electrónico.
