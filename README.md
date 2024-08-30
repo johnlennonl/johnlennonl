@@ -50,3 +50,10 @@ Soy un desarrollador web frontend que está ampliando sus conocimientos estudian
 
 ### 📫 **¡Hablemos!**
 Si tienes alguna pregunta, colaboración o simplemente quieres conectar, no dudes en contactarme a través de mis redes sociales o correo electrónico.
+¡Hablemos!
+
+Si tienes alguna pregunta, colaboración o simplemente quieres conectar, no dudes en contactarme a través de mis redes sociales o correo electrónico. 
+
+[Image of Instagram icon] [Instagram](https://www.instagram.com/[_lennonphillips])
+[Image of Telegram icon] [Telegram](https://t.me/[johnlennonl])
+[Image of PayPal icon] [PayPal.me][jojopow2410@gmail.com]
