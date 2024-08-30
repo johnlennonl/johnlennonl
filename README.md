@@ -60,4 +60,4 @@ Si tienes alguna pregunta, colaboración o simplemente quieres conectar, no dude
 
 * **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/_lennonphillips)
 * **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-%230088CC?style=social&logo=telegram)](https://t.me/johnlennonl)
-* **PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-%23004581?style=social&logo=paypal)](https://paypal.me/jojopow2410@gmail.com)
+* **PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-%23004581?style=social&logo=paypal)](https://paypal.me/johnlennonlp)
