@@ -1,4 +1,4 @@
-# 🧑‍💻 **¡Hola! Soy [John Lennon]** 👋
+# 🧑‍💻 **¡Hola! Soy John Lennon** 👋
 
 **Estudiante de Ciberseguridad** y **Desarrollador Web Frontend**
 
