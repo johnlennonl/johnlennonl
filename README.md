@@ -11,7 +11,6 @@
 Soy un desarrollador web frontend que está ampliando sus conocimientos estudiando ciberseguridad. Actualmente, estoy explorando las profundidades de Kali Linux y otros temas relacionados. Tengo un sólido conocimiento de:
 
 - **Lenguajes**: HTML, CSS, Bootstrap, JavaScript, TypeScript, Python.
-- **Framework**: React, Vite
 - **Herramientas**: Kali Linux, VSCode, Git, GitHub.
 - **Intereses**: Análisis de vulnerabilidades, desarrollo seguro, scripting y automatización.
 ---
