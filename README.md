@@ -12,8 +12,8 @@
 Soy un desarrollador web frontend enfocado en la creación de aplicaciones modernas y dinámicas, combinando mis estudios en Ingeniería de Sistemas con un fuerte interés por la seguridad informática. Disfruto automatizar procesos, optimizar el rendimiento y aprender nuevas tecnologías constantemente.
 
 - **Lenguajes**: HTML, CSS, JavaScript, TypeScript, Python.
-- **Frameworks & Librerías**: React, Tailwind CSS, Bootstrap, Vite.
-- **Herramientas & Backend**: Firebase, Git, GitHub, VSCode, Kali Linux.
+- **Frameworks & Librerías**: React, Tailwind CSS, Bootstrap.
+- **Herramientas & Backend**: Supabase, Firebase, Git, GitHub, VSCode, Kali Linux.
 
 ---
 
@@ -24,7 +24,7 @@ Soy un desarrollador web frontend enfocado en la creación de aplicaciones moder
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -41,16 +41,18 @@ Soy un desarrollador web frontend enfocado en la creación de aplicaciones moder
 
 ---
 
-### 📈 **Mis Estadísticas en GitHub**
+### 📊 **Tecnologías Más Usadas**
 
-![johnlennonl's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlennonl&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlennonl&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
 ### 🌱 **Actualmente Aprendiendo**
 
-- **Ciberseguridad Avanzada**: Fortificación de servidores, scripting de automatización y análisis de vulnerabilidades.
-- **Arquitectura de Software**: Buenas prácticas en el desarrollo frontend y optimización de sistemas.
+- 🏗️ **Arquitectura de Software**: Buenas prácticas, patrones de diseño y estructura de sistemas escalables.
+- 🐍 **Python Avanzado**: Scripting profundo, optimización y automatización de tareas complejas.
 
 ---
 
@@ -61,4 +63,3 @@ Si tienes alguna pregunta, propuesta de colaboración o simplemente deseas conec
 *   **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_lennonphillips)
 *   **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-%230088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/johnlennonl)
 *   **PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-%23004581?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/johnlennonlp)
-
