@@ -48,7 +48,7 @@ Soy un desarrollador web frontend enfocado en la creación de aplicaciones moder
 *   **[DolarVE](https://github.com/johnlennonl/DolarVE)**: Aplicación/herramienta orientada al seguimiento del valor y cotizaciones del dólar en Venezuela.
 *   **[PSM Cabimas](https://github.com/johnlennonl/psm.cab)**: Proyecto o portal desarrollado para el ámbito de ingeniería y gestión académica del PSM.
 *   **[NinjaDorks](https://github.com/johnlennonl/NinjaDorks)**: Herramienta de Google Hacking enfocada en operadores de búsqueda avanzada para auditorías de ciberseguridad.
-*   **[Proyecto Criptomonedas](https://github.com/johnlennonl/cotizacionCriptomoneda)**: Aplicación web interactiva para observar el comportamiento y mercado actual de criptomonedas.
+*   **[SIV Consulting](https://github.com/johnlennonl/siv-consulting-SA)**: Profesionales especializados en la capacitación técnica y servicios industriales, preocupada por brindar conocimientos y herramientas necesarias para todas aquellas personas que busquen ingresar al campo laboral .
 
 ---
 
